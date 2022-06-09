@@ -22,4 +22,31 @@ Thomas High School:
 *Average Math Score: 83.42
 *Average Reading Score: 83.85
 
+Griffin High School:
+*Charter
+*1468 total students
+*~$900k School Budget
+*Average Math Score: 83.35
+*Average Reading Score: 83.82
+
+Wilson High School:
+*Charter
+*2283 Total Students
+*~$1.3M School Budget
+*Average Math Score: 83.99
+*Average Reading Score: 93.87
+
+Pena High School:
+*Charter
+*962 Total Students
+*~$500k School Budget
+*Average Math Score: 83.27
+*Average Reading Score: 83.99
+
+For bottom schools, passing percentages were much worse, however, the average scores were still passing. This may be caused to a wide array of very low, to very high scores and very little consistency. 
+
 #Summary
+
+Charter schools definitely seemed to be the better bets for the highest scores out of all of them, easily beating district schools. However, after these top 5 high schools, some district schools were sure to follow score-wise. All bottom schools seemed to be district schools. After the altering of the data, there were certainly some changes, but it still seemed linear. 
+
+
